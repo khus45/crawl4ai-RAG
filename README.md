@@ -2,15 +2,6 @@
 
 A Retrieval-Augmented Generation (RAG) system built with Crawl4AI, Supabase (with pgvector), and OpenAI. This system crawls the Pydantic AI documentation, processes the content, and creates a knowledge base that can be queried using natural language.
 
-## Video Demo
-
-<div align="center">
-  <a href="https://youtu.be/iN_mLdVuIm4?si=r8dzMlthJv4XqjGY">
-    <img src="https://img.youtube.com/vi/iN_mLdVuIm4/maxresdefault.jpg" alt="Pydantic AI Documentation RAG System Demo" width="100%">
-  </a>
-  <p>Click the image above to watch the demo video</p>
-</div>
-
 ## Project Overview
 
 This project provides a complete RAG pipeline for Pydantic AI documentation:
